@@ -816,7 +816,7 @@ for(let i = 0; i < 50; i++) {
       <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" class="image" alt="Contact">
     </div>
     <div class="service-title">📞 DIRECT SUPPORT</div>
-    <button class="button-34" onclick="window.location.href='https://wa.me/+9779829258991'">🔗 CONNECT WITH DEVELOPER</button>
+    <button class="button-34" onclick="window.location.href='https://wa.me/+919936098516'">🔗 CONNECT WITH DEVELOPER</button>
   </div>
 
   <div class="service-card">
@@ -834,6 +834,14 @@ for(let i = 0; i < 50; i++) {
     <div class="service-title">🔐 TOKEN VALIDATOR</div>
     <button class="button-34" onclick="window.location.href='http://token-checker-1hfb.onrender.com/'">✅ VERIFY TOKEN SECURITY</button>
   </div>
+  
+<div class="service-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+    <div class="image-container">
+      <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" class="image" alt="UID Checker">
+    </div>
+    <div class="service-title">🌈 UID MASTER</div>
+    <button class="button-34" onclick="window.location.href='http://token-checker-1hfb.onrender.com/'">🎨 GET UID</button>
+</div>
 
   <div class="service-card">
     <div class="image-container">
