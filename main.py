@@ -1,12 +1,12 @@
 from flask import Flask, render_template_string, request, redirect, url_for, session
 import uuid
 
-app = Flask(_name_)
+app = Flask(__name__)
 app.secret_key = "supersecret"
 
 # Admin credentials
-ADMIN_USER = "Aman"
-ADMIN_PASS = "Inxide"
+ADMIN_USER = "jamal"
+ADMIN_PASS = "jamal786"
 
 # Approved & Pending storage
 approved_ids = set()
@@ -68,7 +68,7 @@ h1 { font-size: 28px; animation: neon 1.5s infinite alternate; color:#FFFF99; }
 </head>
 <body>
 <div class="card">
-<h1>🔥 AMAN INXIDE APK.0.1 🔥</h1>
+<h1>🔥 AAHAN H3R3 INXIDE APK.0.1 🔥</h1>
 <p>Your Device ID:</p>
 <div class="device-box">{{ device_id }}</div>
 
@@ -83,15 +83,15 @@ h1 { font-size: 28px; animation: neon 1.5s infinite alternate; color:#FFFF99; }
 <a href="{{ url_for('admin') }}"><button class="btn admin">👤 Admin Panel</button></a>
 
 <div class="icons">
-  <a href=".....🤭....." title="Facebook"><i class="fab fa-facebook"></i></a>
-      <a href="https://wa.me/+9779829258991" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
-      <a href="...🤭" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href=".....🤭..."><i class="fab fa-youtube"></i></a>
+  <a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
+  <a href="https://wa.me/+9779829258991" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+  <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+  <a href="#"><i class="fab fa-youtube"></i></a>
 </div>
 
 <div class="footer">
 <marquee behavior="scroll" direction="left" scrollamount="6">✨ Made by <span>Mr Hassan Dastagir</span> ✨</marquee>
-<p class="copyright">©️ 2025 AMAN INXIDE All RIGHTS RESERVED.</p>
+<p class="copyright">©️ 2025 AAHAN H3R3 INXIDE All RIGHTS RESERVED.</p>
 </div>
 </div>
 
@@ -123,7 +123,7 @@ main_page = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>😚❤️ OFFLINE ALL SERVICES BY AMAN INXIDE ❤️😚</title>
+<title>😚❤️ OFFLINE ALL SERVICES BY AAHAN H3R3 INXIDE ❤️😚</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
 <style>
 body { font-family:"Poppins",sans-serif; background:url("{{ bg_image }}") no-repeat center center fixed; background-size:cover; color:#fff; padding:20px; text-align:center;}
@@ -149,10 +149,10 @@ h3 { color:#fff; }
 </style>
 </head>
 <body>
-<h2>😍𝐀𝐌𝐀𝐍 𝐈𝐍𝐗𝐈𝐃𝐄 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐖𝐄𝐁😍</h2>
+<h2>😍𝐀𝐀𝐇𝐀𝐍 𝐇𝟑𝐑𝟑 𝐈𝐍𝐗𝐈𝐃𝐄 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐖𝐄𝐁😍</h2>
 
 <div class="image-container"><img src="https://i.ibb.co/Pz1Mw5dk/photo-1558214000-63bb8c928be5.jpg" class="image"></div>
-<h3>⊲ CONTACT OWNER AMAN INXIDE⊳</h3>
+<h3>⊲ CONTACT OWNER AAHAN H3R3⊳</h3>
 <button class="button-34" onclick="window.location.href='https://wa.me/+9779829258991'">⊲ CONTACT OWNER CLICK HERE ⊳</button>
 
 <div class="image-container"><img src="https://i.ibb.co/7J7wySKz/photo-1509479200622-4503f27f12ef.jpg" class="image"></div>
@@ -168,18 +168,18 @@ h3 { color:#fff; }
 <button class="button-34" onclick="window.location.href='http://104.168.76.139:2709/'">⊲ GROUP NAME LOCK ⊳</button>
 
 <div class="icons">
-  <a href=".....🤭....." title="Facebook"><i class="fab fa-facebook"></i></a>
-      <a href="https://wa.me/+9779829258991" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
-      <a href="...... 🤭....." title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="....🤭...."><i class="fab fa-youtube"></i></a>
-  <p>©️ 2025 AMAN INXIDE All RIGHTS RESERVED.</p>
+  <a href="#" title="Facebook"><i class="fab fa-facebook"></i></a>
+  <a href="https://wa.me/+9779829258991" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+  <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+  <a href="#"><i class="fab fa-youtube"></i></a>
+  <p>©️ 2025 AAHAN H3R3 INXIDE All RIGHTS RESERVED.</p>
 </div>
 
 <div class="footer">
-<marquee behavior="scroll" direction="left" scrollamount="6">✨ Made by <span>AMAN INXIDE</span> ✨</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="6">✨ Made by <span>AAHAN H3R3</span> ✨</marquee>
 </div>
 
-<!-- SCREENSHOT/SREEN RECORD DETER SYSTEM -->
+<!-- SCREENSHOT/SCREEN RECORD DETER SYSTEM -->
 <script>
 (function(){
     document.addEventListener('contextmenu', e=>e.preventDefault());
@@ -234,7 +234,7 @@ def admin():
 <meta charset="UTF-8">
 <title>Admin Login</title>
 <style>
-body { font-family:Arial,sans-serif; background:url("{{ bg_image }}") no-repeat center center fixed; background-size:cover; color:#fff; text-align:center; padding:50px;}
+body { font-family:Arial,sans-serif; background:url("''' + bg_image + '''") no-repeat center center fixed; background-size:cover; color:#fff; text-align:center; padding:50px;}
 .card { max-width:400px; margin:auto; background: rgba(0,0,0,0.7); padding:20px; border-radius:15px; box-shadow:0 0 25px rgba(255,255,255,0.2);}
 input { width:80%; padding:10px; margin:10px 0; border-radius:10px; border:none;}
 button { padding:10px 20px; border:none; border-radius:10px; background:#ff0077; color:#fff; cursor:pointer; font-weight:bold;}
@@ -314,5 +314,5 @@ def remove(device_id):
     return redirect(url_for('dashboard'))
 
 # ----------------- Run -----------------
-if _name=='main_':
-    app.run(host='0.0.0.0', port=20460, debug=True)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000, debug=False)
