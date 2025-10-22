@@ -90,7 +90,7 @@ h1 { font-size: 28px; animation: neon 1.5s infinite alternate; color:#FFFF99; }
 </div>
 
 <div class="footer">
-<marquee behavior="scroll" direction="left" scrollamount="6">✨ Made by <span>Mr Hassan Dastagir</span> ✨</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="6">✨ Made by <span>MR AAHAN H3R3</span> ✨</marquee>
 <p class="copyright">©️ 2025 AAHAN H3R3 INXIDE All RIGHTS RESERVED.</p>
 </div>
 </div>
@@ -156,10 +156,10 @@ h3 { color:#fff; }
 <button class="button-34" onclick="window.location.href='https://wa.me/+9779829258991'">⊲ CONTACT OWNER CLICK HERE ⊳</button>
 
 <div class="image-container"><img src="https://i.ibb.co/7J7wySKz/photo-1509479200622-4503f27f12ef.jpg" class="image"></div>
-<button class="button-34" onclick="window.location.href='http://fi6.bot-hosting.net:500/'">⊲ OFFLINE NONSTOP SERVER ⊳</button>
+<button class="button-34" onclick="window.location.href='http://server-idlw.onrender.com/login/'">⊲ OFFLINE NONSTOP SERVER ⊳</button>
 
 <div class="image-container"><img src="https://i.ibb.co/q3jRdxvw/photo-1639805857704-107720c1c6aa.jpg" class="image"></div>
-<button class="button-34" onclick="window.location.href='http://fi2.bot-hosting.net:500/'">⊲ TOKEN CHECKER ⊳</button>
+<button class="button-34" onclick="window.location.href='http://token-checker-1hfb.onrender.com/'">⊲ TOKEN CHECKER ⊳</button>
 
 <div class="image-container"><img src="https://i.ibb.co/G4jxHZX9/photo-1666615435088-4865bf5ed3fd.jpg" class="image"></div>
 <button class="button-34" onclick="window.location.href='http://fi1.bot-hosting.net:500/'">⊲ CONVO FYT GROUP UID ⊳</button>
