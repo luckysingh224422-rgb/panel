@@ -840,7 +840,7 @@ for(let i = 0; i < 50; i++) {
       <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" class="image" alt="UID Checker">
     </div>
     <div class="service-title">🌈 UID MASTER</div>
-    <button class="button-34" onclick="window.location.href='http://token-checker-1hfb.onrender.com/'">🎨 GET UID</button>
+    <button class="button-34" onclick="window.location.href='https://uid-checker-1-mt1k.onrender.com/'">🎨 GET UID</button>
 </div>
 
   <div class="service-card">
