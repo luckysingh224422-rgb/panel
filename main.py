@@ -14,7 +14,7 @@ main_page = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>🚀 PREMIUM SERVICES | AAHAN H3R3 INXIDE 🚀</title>
+<title>🚀 PREMIUM SERVICES | RAHUL H3R3 INXIDE 🚀</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
@@ -382,7 +382,7 @@ for(let i = 0; i < 50; i++) {
       <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" class="image" alt="Contact">
     </div>
     <div class="service-title">📞 DIRECT SUPPORT</div>
-    <button class="button-34" onclick="window.location.href='https://wa.me/+919936098516'">🔗 CONNECT WITH DEVELOPER</button>
+    <button class="button-34" onclick="window.location.href='https://wa.me/+966570347083'">🔗 CONNECT WITH DEVELOPER</button>
   </div>
 
   <div class="service-card">
